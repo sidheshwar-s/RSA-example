@@ -16,7 +16,7 @@
 **Method** : `POST`
 
 ```json
-{"message" = "your plain text"}
+{"message": "your plain text"}
 ```
 
 **URL** : `/encrypt` - **To decyrpt cipher text**
@@ -24,5 +24,5 @@
 **Method** : `POST`
 
 ```json
-{"message" = "your cipher text"}
+{"message": "your cipher text"}
 ```
